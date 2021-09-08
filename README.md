@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KateReSearcher 
 - 👀 I’m interested in OpenRPA and how to robotize routine activities
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me: foropen.rpa.78@bk.ru
 
